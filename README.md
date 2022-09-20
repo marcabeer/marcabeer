@@ -1,7 +1,7 @@
 <div align="center">
 <center>
 	<h1>Marc A. Beer</h1>
-	<h3>Genomics | Bioinformatics | Conservation</h3>
+	<h3>Genomics | Bioinformatics | Spatial analysis | Conservation</h3>
 </center>
 </div>
 
