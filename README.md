@@ -11,6 +11,13 @@ I am an interdisciplinary computational biologist interested in 1) applying and 
 
 For my Ph.D., I am using hundreds of so-called "Next Generation Sequencing" samples to study 1) how abiotic and biotic environmental variation impacts spatiotemporal patterns of genomic variation among populations of the Tasmanian spotted-tailed quoll, a species impacted by the disease-driven decline of the Tasmanian devil, 2) the relative roles of gene flow, genetic drift, and spatially divergent selection in the context of the cane toad invasion of Australia, and 3) using spatially explicit population genomic simulation to evaluate the performance of landscape genetics/genomics analyses. More information about these projects can be found on my <a href="https://marcabeer.github.io//">website</a>.
 
+## Active interests
+- Population genomics
+- Spatial simulation
+- Deep learning
+- Genetic algorithms
+- App development
+
 <!--
 **marcabeer/marcabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
