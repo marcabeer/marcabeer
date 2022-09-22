@@ -18,6 +18,9 @@ For my Ph.D., I am using next-generation sequencing data to study 1) how abiotic
 - Genetic algorithms
 - App development
 
+# Tutorials & Workshops
+- <a href="https://github.com/marcabeer/Species_presence_simulation">Species presence-[absence] data simulation for ecological niche models</a>
+
 <!--
 **marcabeer/marcabeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
