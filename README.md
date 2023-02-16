@@ -19,7 +19,9 @@ For my Ph.D., I am using next-generation sequencing data to study 1) how abiotic
 - App development
 
 # Tutorials & Workshops
+- <a href="https://github.com/marcabeer/Nonrandom_missing_data_in_population_genetics">Identifying and fixing non-random missing data in population genetics (in progress)</a>
 - <a href="https://github.com/marcabeer/Species_presence_simulation">Simulate species presence-[absence] data for ecological niche models</a>
+- <a href="https://github.com/marcabeer/Simulate_regression_data">Simulate simple linear regression data</a>
 
 # GitHub Stats
 [![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcabeer)](https://github.com/marcabeer/github-readme-stats)
