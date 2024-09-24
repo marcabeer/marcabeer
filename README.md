@@ -9,7 +9,11 @@
 # About me
 I am an interdisciplinary computational biologist interested in 1) applying and developing bioinformatic and spatial analysis tools for understanding population genomic variation and 2) testing the statistical performance of modern spatial population genomics methods using simulation. Thus far, most of my work falls under the subfields of population genomics referred to as landscape genetics and landscape genomics. Accordingly, I am experienced in various aspects of both spatial analysis and genomics analysis, such as the resolution of spatial patterns of gene flow and signatures of spatially divergent selection.
 
-For my Ph.D., I am using next-generation sequencing data to study 1) how abiotic and biotic environmental variation impacts spatiotemporal patterns of genomic variation in the Tasmanian spotted-tailed quoll, a species impacted by the disease-driven decline of the Tasmanian devil and 2) the relative roles of gene flow, genetic drift, and natural selection in the context of the cane toad invasion of Australia. Third, I am using spatially explicit population genomic simulation to evaluate the performance of landscape genetics/genomics analyses. More information about these projects can be found on my <a href="https://marcabeer.github.io//">website</a>.
+As a postdoctoral researcher, I am currently studying the genomic basis of adaptation to novel pathogens in wildlife. Critical questions include understanding the extent of convergent evolution (broadly defined) among populations of the same host species, as well as how the intensity of selection varies during disease emergence. 
+
+During my Ph.D., I studied three species representing different facets of the biodiversity crisis. Specifically, I used population genomic data to study 1) the capacity of an imperiled endemic species to respond evolutionarily to threats posed by global climate change; 2) the evolutionary impacts of shifting ecological interactions between species; and 3) adaptive evolution of an invasive species across its introduced range. Accordingly, I have experience working in systems with clear conservation relevance (e.g., highly climate-sensitive species and invasive species), and I aim to build a career in applied ecology and evolutionary science to continue addressing conservation issues driven by rapid global change.
+
+More information about about me can be found on my <a href="https://marcabeer.github.io//">website</a>.
 
 ## Active interests
 - Population genomics
