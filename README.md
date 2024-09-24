@@ -11,9 +11,9 @@ I am an interdisciplinary computational biologist interested in 1) applying and 
 
 As a postdoctoral researcher, I am currently studying the genomic basis of adaptation to novel pathogens in wildlife. Critical questions include understanding the extent of convergent evolution (broadly defined) among populations of the same host species, as well as how the intensity of selection varies during disease emergence. 
 
-During my Ph.D., I studied three species representing different facets of the biodiversity crisis. Specifically, I used population genomic data to study 1) the capacity of an imperiled endemic species to respond evolutionarily to threats posed by global climate change; 2) the evolutionary impacts of shifting ecological interactions between species; and 3) adaptive evolution of an invasive species across its introduced range. Accordingly, I have experience working in systems with clear conservation relevance (e.g., highly climate-sensitive species and invasive species), and I aim to build a career in applied ecology and evolutionary science to continue addressing conservation issues driven by rapid global change.
+During my Ph.D., I studied three species representing different facets of the biodiversity crisis. Specifically, I used population genomic data to study 1) the capacity of an imperiled endemic species (the streamside salamander, <i>Ambystoma barbouri</i>) to respond evolutionarily to threats posed by global climate change; 2) the evolutionary impacts of shifting ecological interactions between species(namely the evolution of the spotted-tailed quoll in response to population declines of its competitor, the Tasmanian devil); and 3) adaptive evolution of the invasive cane toad (<i>Rhinella marina</i>) across its Australian range. Accordingly, I have experience working in systems with clear conservation relevance (e.g., highly climate-sensitive species and invasive species), and I aim to build a career in applied ecology and evolutionary science to continue addressing conservation issues driven by rapid global change.
 
-More information about about me can be found on my <a href="https://marcabeer.github.io//">website</a>.
+More information about me can be found on my <a href="https://marcabeer.github.io//">website</a>.
 
 ## Active interests
 - Population genomics
