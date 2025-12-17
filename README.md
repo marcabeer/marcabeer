@@ -7,7 +7,7 @@
 
 
 # About me
-I am an interdisciplinary computational biologist interested in 1) applying and developing bioinformatic tools for understanding population genomic variation.
+I am an interdisciplinary computational biologist interested in applying and developing analytical methods for understanding population genomic variation.
 
 As a postdoctoral researcher, I am currently studying the genomic basis of adaptation to novel pathogens in wildlife.
 
