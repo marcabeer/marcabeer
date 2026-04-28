@@ -7,19 +7,14 @@
 
 
 # About me
-I am an interdisciplinary computational biologist interested in applying and developing analytical methods for understanding population genomic variation.
+I am a computational biologist with 8 years of experience in bioinformatics and genomic / multi-omic data analysis. I analyze complex, next-generation sequencing datasets to understand and address societal challenges such as disease. As a postdoctoral researcher, I am currently studying the genomic basis of adaptation to novel pathogens in wildlife.
 
-As a postdoctoral researcher, I am currently studying the genomic basis of adaptation to novel pathogens in wildlife.
 
 More information about me can be found on my <a href="https://marcabeer.github.io//">website</a>.
 
-## Active interests
-- Population genomics
-- Deep learning
-- Genetic algorithms
+# What am I learning about now?
+- Increasingly complex regression modeling
+- Machine learning & optimization techniques (e.g., genetic algorithms)
 
 # Tutorials & Workshops
-- <a href="https://github.com/marcabeer/Simulate_regression_data">Simulate simple linear regression data</a>
-
-# GitHub Stats
-[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcabeer)](https://github.com/marcabeer/github-readme-stats)
+- <a href="https://github.com/marcabeer/Simulate_regression_data">Understanding linear regression through simulation</a>
