@@ -20,5 +20,5 @@ More information about me can be found on my <a href="https://marcabeer.github.i
 - <a href="https://github.com/marcabeer/Simulate_regression_data">Understanding linear regression through simulation</a>
 
 # Publication repositories
-- <a href="https://github.com/marcabeer/stquoll_landscape_genomics">Repository"</a> of data analysis scripts underlying my publication "Disease-driven top predator decline affects mesopredator population genomic structure (https://doi.org/10.1038/s41559-023-02265-9)
-- <a href="https://github.com/marcabeer/canetoad_landscape_genomics">Repository"</a> of data analysis scripts underlying my publication "Spatial variation in genomic signatures of local adaptation during the cane toad invasion of Australia (https://doi.org/10.1111/mec.17464)
+- <a href="https://github.com/marcabeer/stquoll_landscape_genomics">Repository</a> of data analysis scripts underlying my publication "Disease-driven top predator decline affects mesopredator population genomic structure" (https://doi.org/10.1038/s41559-023-02265-9)
+- <a href="https://github.com/marcabeer/canetoad_landscape_genomics">Repository</a> of data analysis scripts underlying my publication "Spatial variation in genomic signatures of local adaptation during the cane toad invasion of Australia" (https://doi.org/10.1111/mec.17464)
