@@ -17,7 +17,7 @@ More information about me can be found on my <a href="https://marcabeer.github.i
 - Machine learning & optimization techniques (e.g., genetic algorithms)
 
 # Tutorials & Workshops
-- <a href="https://github.com/marcabeer/Simulate_regression_data">Understanding linear regression through simulation</a>
+- Power analysis tutorial: fixed effects models — <a href="https://marcabeer.github.io/power-analysis-fixed-effects-tutorial/">tutorial</a> | <a href="https://github.com/marcabeer/power-analysis-fixed-effects-tutorial">repository</a>
 
 # Publication repositories
 - <a href="https://github.com/marcabeer/stquoll_landscape_genomics">Repository</a> of data analysis scripts underlying my publication "Disease-driven top predator decline affects mesopredator population genomic structure" (https://doi.org/10.1038/s41559-023-02265-9)
